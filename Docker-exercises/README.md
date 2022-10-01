@@ -4,9 +4,7 @@ An introduction to the basics of using Docker.
 
 ### Before you get started...
 
-1. [Install Docker on your machine.](https://docs.docker.com/engine/installation/)
-
-2. [Clone this repo locally.](https://github.com/delner/docker-training)
+[Install Docker on your machine.](https://docs.docker.com/engine/installation/)
 
 ### Basic Exercises
 
