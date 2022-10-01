@@ -8,10 +8,6 @@ An introduction to the basics of using Docker.
 
 2. [Clone this repo locally.](https://github.com/delner/docker-training)
 
-### After you're setup...
-
-Follow the [presentation](https://1drv.ms/p/s!AoPSUV0rpt0Ajz1yfx_QLRBjmeqi), and open up each exercise when prompted.
-
 ### Basic Exercises
 
 1. [Running and managing Docker containers and images](https://github.com/delner/docker-training/blob/master/exercises/basic/1-running_containers/README.md)
